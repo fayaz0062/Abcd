@@ -29,7 +29,7 @@ public class AppiumTest {
 	}
 
 	@Test
-	public void IOSApps()
+	public void IOAp()
 	{
 		System.out.println("IOS ");
 		System.out.println("IOS 2");
