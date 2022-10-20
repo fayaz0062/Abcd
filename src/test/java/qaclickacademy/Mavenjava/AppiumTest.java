@@ -27,4 +27,12 @@ public class AppiumTest {
 		System.out.println("IOS Apps3");
 		System.out.println("IOS Apps4");
 	}
+
+	@Test
+	public void IOSApps()
+	{
+		System.out.println("IOS ");
+		System.out.println("IOS 2");
+		
+	}
 }
